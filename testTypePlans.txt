@@ -1,0 +1,7 @@
+size 0 to 1 list: 1 given + (2-5) 4 to do
+size 1 to 0 list: none given + (12-15) 4 to do
+size 1 to 1 list: none given + (16, 25-30) 7 to do
+size 1 to 2 list: 6 given + (7, 10) 2 to do
+size 3 to 2 list: 39 given + (33, 37) 2 to do
+size 2 to 3 list: none given + (17, 20, 23) 3 to do
+
